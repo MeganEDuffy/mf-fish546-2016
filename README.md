@@ -4,6 +4,8 @@ repo for bioinformatics course
 
 I wrote you a haiku. You're welcome.
 
-mary my lab mate
-avoids getting hangry with
-bars, yogurts, sandwiches
+> _mary my lab mate_ 
+
+> _avoids getting hangry with_ 
+
+> _bars, yogurts, sandwiches_
